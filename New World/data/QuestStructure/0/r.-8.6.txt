@@ -1,0 +1,8 @@
+RLCraft_DecentWitch,-4116,-4116,3194,3194
+RLCraft_UndergroundRuin3,-4118,-4110,3189,3197
+WoodWallRemains,-4182,-4174,3143,3171
+SmallAbandonedMine,-4357,-4332,3244,3259
+RLCraft_DecentSkeleton,-4338,-4338,3281,3281
+RLCraft_UndergroundRuin2,-4343,-4333,3279,3286
+RLCraft_SmallUndergroundSkeleton,-4586,-4578,3099,3107
+PeacefulCrypt,-4578,-4562,3129,3153

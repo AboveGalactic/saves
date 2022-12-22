@@ -1,0 +1,13 @@
+RLCraft_xKOSMOS42,-4092,-4066,3069,3098
+RLCraft_SmallUndergroundSkeleton,-4036,-4028,3174,3182
+ShrineSmallAir,-3938,-3930,3171,3179
+StoneIceBoulder2,-4044,-4035,3199,3208
+StoneIceBoulder2,-4075,-4066,3197,3206
+RLCraft_LargeUndergroundTown,-3914,-3801,3080,3217
+RLCraft_SmallUndergroundSkeleton,-3965,-3957,3264,3272
+DinosaurSkeleton,-3949,-3903,3240,3249
+P_VillageFarmhouse,-3994,-3982,3285,3297
+VillageForgeLarge,-4023,-4007,3302,3314
+VillageHouseRich,-3950,-3931,3288,3303
+VillageTriplets,-3994,-3980,3307,3321
+ThreeTowers,-3887,-3856,3316,3348
