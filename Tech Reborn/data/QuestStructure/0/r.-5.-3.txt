@@ -1,0 +1,4 @@
+SeasonsGreenhouse,-2730,-2718,-1561,-1551
+P_VillageFarmhouse,-2700,-2688,-1550,-1538
+VillageForgeLarge,-2679,-2667,-1550,-1534
+P_VillageHouse2,-2658,-2641,-1553,-1536

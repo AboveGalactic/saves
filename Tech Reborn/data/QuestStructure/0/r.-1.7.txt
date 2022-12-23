@@ -1,0 +1,7 @@
+UndergroundTreeoid,-987,-961,3953,3976
+RLCraft_BasicWitch,-925,-925,3913,3913
+RLCraft_UndergroundRuin1,-928,-919,3907,3916
+RLCraft_DecentSkeleton,-905,-905,3881,3881
+RLCraft_UndergroundRuin2,-910,-900,3876,3883
+RLCraft_DecentZombie,-839,-839,3750,3750
+RLCraft_UndergroundRuin3,-841,-833,3747,3755

@@ -1,0 +1,5 @@
+SmallAbandonedMine,-1608,-1593,3527,3552
+RLCraft_UndergroundFarm,-1739,-1696,3491,3533
+RLCraft_DecentSpider,-1551,-1551,3339,3339
+RLCraft_UndergroundRuin2,-1556,-1546,3337,3344
+AbandonedWoodTower,-1587,-1551,3300,3330

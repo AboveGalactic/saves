@@ -1,0 +1,4 @@
+RLCraft_FriendlyOutpost,-3585,-3546,581,649
+RLCraft_DecentCaveSpider,-3456,-3456,666,666
+RLCraft_UndergroundRuin3,-3459,-3451,660,668
+StonePlantMound2,-3400,-3388,598,611

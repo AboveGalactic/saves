@@ -1,0 +1,11 @@
+SmallFortRuins,-1813,-1781,4086,4116
+AbandonedWoodTower,-1780,-1750,4131,4167
+RLCraft_SmallUndergroundSkeleton,-1827,-1819,4181,4189
+SmallWoodenCottage,-1704,-1696,4204,4215
+MysticalTree,-1647,-1632,4164,4180
+RLCraft_DecentSpider,-1606,-1606,4178,4178
+RLCraft_UndergroundRuin3,-1611,-1603,4176,4184
+StoneBoulder,-1881,-1872,4209,4218
+StonePlantMound1,-1924,-1918,4145,4151
+StonePlantMound4,-1939,-1932,4229,4236
+BlazeSpawnerCrystal,-1595,-1589,4122,4128

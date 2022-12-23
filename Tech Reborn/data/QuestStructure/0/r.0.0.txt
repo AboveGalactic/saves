@@ -1,0 +1,7 @@
+ShrineSmallFire,-172,-162,243,253
+DinosaurSkeleton,38,47,-12,34
+P_DesertDungeon,-112,-60,223,276
+RLCraft_DecentSpider,-35,-35,209,209
+RLCraft_UndergroundRuin3,-41,-33,204,212
+RLCraft_DecentZombie,20,20,391,391
+RLCraft_UndergroundRuin2,15,25,386,393

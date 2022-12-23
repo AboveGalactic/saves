@@ -1,0 +1,7 @@
+P_Village2Story,-2700,-2694,-1530,-1517
+VillageWoodMill,-2727,-2714,-1530,-1514
+P_VillageLibrary,-2668,-2649,-1530,-1514
+VillageLargeLibrary,-2767,-2747,-1507,-1488
+RLCraft_Vineyard,-2714,-2686,-1495,-1475
+UndergroundCultChamber,-2647,-2615,-1536,-1494
+DesertWatchtower,-2606,-2596,-1534,-1524
