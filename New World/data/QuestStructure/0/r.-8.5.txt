@@ -1,9 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,-4429,-4421,2970,2978
-UndergroundCultChamber,-4154,-4112,2967,2999
-BrickHenge,-4335,-4319,3049,3065
-RLCraft_LargeUndergroundTown,-4356,-4243,2994,3131
-AbandonedWoodTower,-4407,-4371,2939,2969
-DinosaurSkull,-4519,-4500,3007,3018
-WoodWallRemains,-4557,-4529,3045,3053
-RLCraft_BasicCaveSpider,-4388,-4388,2931,2931
-RLCraft_UndergroundRuin1,-4391,-4382,2925,2934
